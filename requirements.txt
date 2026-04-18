@@ -1,0 +1,7 @@
+typer
+requests
+beautifulsoup4
+pandas
+openpyxl  # Required by pandas to write .xlsx files
+# ... existing packages
+selenium

@@ -14,7 +14,7 @@ Step 2 ; if file already exists edit that or create new one
 
 Step 3 : paste link of the naukri JOB Post
 
-Step 4 : tool will extract the skills, company name , date time added, Location , Salary Range,  Job Title/ Role , Link of that Post (to read job description) into one excel , experience required
+Step 4 : tool will extract the skills, company name , date time added, Location , Mode of Work, Salary Range,  Job Title/ Role , Link of that Post (to read job description) into one excel , experience required
 Hyper link for company name and Rolename to redirect it 
 
 Step 5 : Prompt user to add new URL or CTRL C to exit

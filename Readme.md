@@ -1,4 +1,4 @@
-Job Tracking Application 
+Job Tracking CLI Tool
 
 High level functions :  add Job option (which will scrape )
 
